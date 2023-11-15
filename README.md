@@ -16,7 +16,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+# USE CASE DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/33d1dd72-7fb6-4668-818e-0f535c667882)
 
+# CLASS DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/cd752a6e-bf9e-424e-ad9a-0eaf66474494)
+
+# PACKAGE DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/f655b844-03fa-432a-8b60-18706582890e)
+
+# SEQUENCE DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/001edb19-6421-4f3a-ac96-9e0196716b56)
+
+# COMMUNICATION DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/268ba1df-dbf7-4b24-b02c-fcfea0bc8fc0)
+
+# ACTIVITY DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-6-Online-examination-system/assets/118679102/0704cfb6-749e-4b43-a3ee-8b564126786f)
 
 
 ### RESULT:
